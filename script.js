@@ -63,9 +63,6 @@ form.addEventListener("submit", async (event) => {
     console.log("Response url:", response.url);
     console.log("Response body:", responseText);
 
-if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${responseText}`);
-    }
 
     statusMessage.classList.add("success");
 
