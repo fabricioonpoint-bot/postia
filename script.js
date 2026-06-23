@@ -7,6 +7,7 @@ if (!form) {
   throw new Error("No se encontró el formulario con id #earlyAccessForm");
 }
 
+
 if (!statusMessage) {
   throw new Error("No se encontró el elemento con id #formStatus");
 }
