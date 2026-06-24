@@ -1,5 +1,5 @@
 const GOOGLE_APPS_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbyHinIXc2ijigF_nFmw98gtPJrv8EElBXUBxzqgYadAipIRBll4XrbwsFswxzzlgoWO/exec";
+  "https://script.google.com/macros/s/AKfycbzMiAbJP5whHgF0ujV3vk3cymhTHH5l6HDr7L7rFfN6IVHLkVBt4j2Nd6AnkeREuUeX/exec";
 console.log("script.js cargado: POSTIA JSON text/plain");
 
 
